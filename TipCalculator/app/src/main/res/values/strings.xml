@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Tip Calculator</string>
-    <string name="main.msg.billamount">Bill Amount</string>
-    <string name="main.msg.hint.billamount">Enter Bill Amount Here</string>
-    <string name="main.msg.serviceration">Service Rating</string>
-    <string name="mina.msg.tippercent">%s%% Tip Percent</string>
+    <string name="app_name">TipCalculator</string>
+    <string name="main.msg.billamount">Bill amount</string>
+    <string name="main.hint.billamount">Enter Bill Amount Here</string>
+    <string name="main.msg.serviceration">Serviec Rating</string>
+    <string name="main.msg.tippercent">%s%% Percent</string>
     <string name="main.msg.tiptotal">$%s Tip Total</string>
     <string name="main.msg.billtotal">Bill Total</string>
     <string name="main.msg.billtotalresult">$%s</string>
